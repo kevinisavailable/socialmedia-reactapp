@@ -6,10 +6,10 @@ import Profile from './pages/Profile/Profile'
 function App() {
   return (
    <>
-   <Home />
+   {/* <Home /> */}
    <Login />
-   <Profile />
-   <Register />
+   {/* <Profile /> */}
+   {/* <Register /> */}
    </>
   );
 }
